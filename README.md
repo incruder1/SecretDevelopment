@@ -1,2 +1,2 @@
 # SecretDevelopment
-Websiter for sharing secrtes .
+Website for sharing secrets.
